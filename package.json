@@ -187,8 +187,8 @@
     "types": "lib/index.d.ts",
     "devDependencies": {
         "@bed-and-breakfast/template-tools": "2.2.8",
-        "@commitlint/cli": "17.6.5",
-        "@commitlint/config-conventional": "17.6.5",
+        "@commitlint/cli": "17.8.1",
+        "@commitlint/config-conventional": "17.8.1",
         "@semantic-release/changelog": "6.0.3",
         "@semantic-release/git": "10.0.1",
         "@types/jest": "29.5.2",
